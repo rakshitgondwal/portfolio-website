@@ -1,10 +1,7 @@
-import './App.css';
 
 function App() {
   return (
-  <>
-  Hi
-  </>
+  <h1 className="font-bold text-4xl font-signature">Hi my name is rakshit</h1>
   );
 }
 
