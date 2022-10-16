@@ -13,8 +13,10 @@ function Toggle() {
 
     return (
         <>
-            <div className='z-10 flex flex-col md:hidden cursor-pointer mr-2' onClick={changeToggle}>
+            <div className='toggle z-10 flex flex-col md:hidden cursor-pointer' onClick={changeToggle}>
                 {toggle ? <FaTimes style={{color: 'white',zIndex: '10'}} size={30} /> : <FaBars color='white' size={30} />}
+            </div>
+            <div>
                 {toggle && <List />}
             </div>
         </>
