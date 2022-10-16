@@ -19,5 +19,11 @@
 }
 
 .profilePic{
-  width: 15rem;
+  width: 27rem;
+}
+
+@media (max-width:480px) {
+  .profilePic{
+    width: 15rem;
+  }
 }
