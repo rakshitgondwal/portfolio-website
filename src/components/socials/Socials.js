@@ -50,7 +50,7 @@ const Socials = () => {
     },
     {
       key: 5,
-      link: '../../assets/Resume.pdf',
+      link: '/RakshitGondwal.pdf',
       child: (
         <>
           Resume <HiOutlineDocumentText size={30} />
@@ -66,7 +66,7 @@ const Socials = () => {
       <ul>
         {social.map(({key, name, link, download, child}) => (
           <li key={key} className=' flex justify-between items-center w-40 h-14 px-4 ml-[-100px] hover:ml-[-10px] bg-cyan-900 hover:hue-rotate-180 duration-1000 hover:rounded-md  '>
-            <a href={link} className='flex justify-between items-center w-full text-white' download={download} target='_blank'>
+            <a href={link} className='flex justify-between items-center w-full text-white' download={download} target='_blank' rel="noreferrer">
               <>
               {child} 
               </>
