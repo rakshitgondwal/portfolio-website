@@ -13,7 +13,7 @@ function Toggle() {
 
     return (
         <>
-            <div className='right-0 toggle z-10 flex flex-col md:hidden cursor-pointer sm:ml-6' onClick={changeToggle}>
+            <div className='right-0 toggle flex flex-col md:hidden cursor-pointer sm:ml-6' onClick={changeToggle}>
                 {toggle ? <FaTimes style={{color: 'white',zIndex: '10'}} size={30} /> : <FaBars color='white' size={30} />}
             </div>
             <div>
