@@ -22,7 +22,7 @@
   width: 27rem;
 }
 
-@media (max-width:480px) {
+@media (max-width:640px) {
   .profilePic{
     width: 15rem;
   }
