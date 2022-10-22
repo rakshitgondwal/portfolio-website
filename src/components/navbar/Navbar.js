@@ -15,6 +15,7 @@ const Navbar = () => {
                         <Button name="Home" />
                         <Button name="About" />
                         <Button name="Portfolio" />
+                        <Button name="Experience" />
                         <Button name="Contact" />
                     </ul>
                 </div>

@@ -8,6 +8,7 @@ const toggleList = () => {
         <ListElements name="Home" />
         <ListElements name="About" />
         <ListElements name="Portfolio" />
+        <ListElements name="Experience" />
         <ListElements name="Contact" />
       </ul>
     </div>
