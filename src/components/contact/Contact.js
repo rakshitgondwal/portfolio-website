@@ -15,7 +15,7 @@ const Contact = () => {
                     </div>
                     <div className='flex flex-col items-center justify-center'>
                         <form action="/action_page.php">
-                            <input type="text" id="fname" name="fname" className='bg-transparent border-2  border-color-white p-2' size={60} placeholder="Enter you name" /><br /><br />
+                            <input type="text" id="fname" name="fname" className='bg-transparent border-2  border-color-white p-2 ' size={60} placeholder="Enter you name" /><br /><br />
                             <input type="text" id="lname" name="email" className='bg-transparent border-2 border-color-white p-2' size={60} placeholder="Enter you email" /><br /><br />
                             <textarea  name="comment" rows={4} cols={60} className='bg-transparent border-2  border-color-white p-2'></textarea><br />
                             <button type='submit' className='group text-white w-fit px-3 py-2 my-4 flex justify-center items-center rounded-md bg-gradient-to-r
