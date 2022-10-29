@@ -16,7 +16,7 @@ const Portfolio = () => {
                     </div>
                     <div>
                         <div className='grid grid-cold-1 md:grid-cols-2 place-items-center'>
-                            <Cards name="Portfolio" image="/Portfolio.png" demo="" git="https://github.com/rakshitgondwal/portfolio-website" />
+                            <Cards name="Portfolio" image="/Portfolio.png" demo="https://dashing-rolypoly-179af6.netlify.app/" git="https://github.com/rakshitgondwal/portfolio-website" />
                             <Cards name="Jeevika" image="/Jeevika.png" demo="https://nameless-peak-56001.herokuapp.com/" git="https://github.com/rakshitgondwal/Jeevika" />
                             <Cards name="Affixity" image="/Affixity.png" demo="https://afternoon-lowlands-48391.herokuapp.com/" git="https://github.com/rakshitgondwal/Affixity" />
                         </div>
