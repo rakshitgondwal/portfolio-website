@@ -10,7 +10,7 @@ const Portfolio = () => {
                         <p className='text-6xl font-bold  text-center md:text-left'>Projects</p>
                     </div>
                     <div>
-                        <p className='pt-14 mb-20 md:text-left text-center'>
+                        <p className='pt-14 mb-20 md:text-left text-center text-xl'>
                             Check out some of my projects over here
                         </p>
                     </div>

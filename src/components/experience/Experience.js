@@ -9,7 +9,7 @@ const Experience = () => {
                     <p className='text-6xl font-bold  text-center md:text-left'>Experience</p>
                 </div>
                 <div>
-                    <p className='pt-14 mb-20 md:text-left text-center'>
+                    <p className='pt-14 mb-20 md:text-left text-center text-xl'>
                         Here are some of the technologies I've worked with
                     </p>
                 </div>
