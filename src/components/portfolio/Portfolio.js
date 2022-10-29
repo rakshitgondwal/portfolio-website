@@ -16,9 +16,9 @@ const Portfolio = () => {
                     </div>
                     <div>
                         <div className='grid grid-cold-1 md:grid-cols-2 place-items-center'>
-                            <Cards />
-                            <Cards />
-                            <Cards />
+                            <Cards image="/Portfolio.png" demo="" git="https://github.com/rakshitgondwal/portfolio-website" />
+                            <Cards image="/Jeevika.png" demo="https://nameless-peak-56001.herokuapp.com/" git="https://github.com/rakshitgondwal/Jeevika" />
+                            <Cards image="/Affixity.png" demo="" git="https://github.com/rakshitgondwal/Affixity" />
                         </div>
                     </div>
                 </div>
