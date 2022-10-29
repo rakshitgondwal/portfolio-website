@@ -3,7 +3,7 @@ import Cards from './components/Cards'
 
 const Experience = () => {
     return (
-        <div name='Experience' className=' flex flex-wrap items-center justify-center bg-gradient-to-b from-gray-800 to-black text-white h-full'>
+        <div id='Experience' className=' flex flex-wrap items-center justify-center bg-gradient-to-b from-gray-800 to-black text-white h-full'>
             <div className='w-10/12 mt-20 '>
                 <div>
                     <p className='text-6xl font-bold  text-center md:text-left'>Experience</p>
