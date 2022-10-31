@@ -3,12 +3,12 @@ import React from 'react'
 const About = () => {
     return (
         <div id='About' className='flex flex-wrap items-center justify-center bg-gradient-to-b from-gray-800 to-black text-white h-screen'>
-            <div className='w-10/12 mt-6 md:mb-20'>
+            <div className='w-10/12 mt-6 md:mb-20 pt-10 md:pt-0 '>
                 <div>
                     <p className='text-6xl font-bold pb-14 text-center md:text-left'>About</p>
                 </div>
                 <div>
-                    <p className='pt-14 text-center md:text-left text-xl'>
+                    <p className='pt-14 text-center md:text-left text-xl '>
                         Hey! Rakshit Gondwal this side, I'm a sophomore currently pursuing my Bachelors from Punjab Engineering College. Other than being a student,
                         I love to explore different fields and I love to interact with new people. I love being active in communities and helping people out.
                         I'm always looking for distinct opportunities which can help me become a better version of myself.

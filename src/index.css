@@ -22,8 +22,15 @@
   width: 27rem;
 }
 
+
 @media (max-width:640px) {
   .profilePic{
     width: 15rem;
   }
 }
+
+/* @media (max-width:640px) {
+  #Portfolio{
+    padding-top: 20rem;
+  }
+} */
